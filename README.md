@@ -5,4 +5,4 @@
 目前，使用此功能制作**20岁倒计时**。
 
 ## **下面是20岁倒计时**
-[点击这里](https://github.com/John-wick-jlnas.github.io/)
+[点击这里](https://john-wick-jlnas.github.io/)
